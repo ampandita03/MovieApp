@@ -87,9 +87,4 @@ const API_KEY = "your_api_key_here";
 - **Save a Movie**: Press the save button on a movie to add it to favorites.
 - **View Saved Movies**: Navigate to the **Saved** screen to see stored movies.
 
-## License
-This project is licensed under the MIT License.
-
----
-🚀 Happy Coding!
 
