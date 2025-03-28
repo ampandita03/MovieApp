@@ -27,8 +27,28 @@ A **React Native** application that allows users to search for movies using the 
    ```sh
    npm install
    ```
+3. **Install dependencies for React Navigation**
+   ```sh
+   npm install @react-navigation/native  
+   npm install react-native-screens react-native-safe-area-context react-native-gesture-handler react-native-reanimated react-native-vector-icons react-native-paper
+   ```
 
-3. **Run the project:**
+4. **Install Bottom Tabs for Navigationn**
+   ```sh
+   npm install @react-navigation/bottom-tabs  
+   ```
+   
+5. **Install AsyncStorage**
+   ```sh
+     npm install @react-native-async-storage/async-storage    
+   ```
+   
+6. **Install Axios for API requests**
+   ```sh
+    npm install axios
+   ```      
+
+7. **Run the project:**
    ```sh
    npx react-native run-android
    ```
