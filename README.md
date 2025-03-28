@@ -19,7 +19,7 @@ A **React Native** application that allows users to search for movies using the 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/movie-finder.git
+   git clone https://github.com/ampandita03/MovieApp.git
    cd MovieApp
    ```
 
